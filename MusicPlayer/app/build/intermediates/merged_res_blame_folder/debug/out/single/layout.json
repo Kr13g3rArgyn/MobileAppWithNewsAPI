@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/home/elnazisrich/.gradle/daemon/7.4/com.harshRajpurohit.musicPlayer.app-mergeDebugResources-31:/layout/details_view.xml",
+        "source": "/home/elnazisrich/.gradle/daemon/7.4/com.harshRajpurohit.musicPlayer.app-main-34:/layout/details_view.xml"
+    },
+    {
+        "merged": "/home/elnazisrich/.gradle/daemon/7.4/com.harshRajpurohit.musicPlayer.app-mergeDebugResources-31:/layout/activity_player.xml",
+        "source": "/home/elnazisrich/.gradle/daemon/7.4/com.harshRajpurohit.musicPlayer.app-main-34:/layout/activity_player.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-mergeDebugResources-31:/layout/more_features.xml",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-34:/layout/more_features.xml"
+    },
+    {
+        "merged": "/home/elnazisrich/.gradle/daemon/7.4/com.harshRajpurohit.musicPlayer.app-mergeDebugResources-31:/layout/playlist_view.xml",
+        "source": "/home/elnazisrich/.gradle/daemon/7.4/com.harshRajpurohit.musicPlayer.app-main-34:/layout/playlist_view.xml"
+    },
+    {
+        "merged": "/home/elnazisrich/.gradle/daemon/7.4/com.harshRajpurohit.musicPlayer.app-mergeDebugResources-31:/layout/activity_main.xml",
+        "source": "/home/elnazisrich/.gradle/daemon/7.4/com.harshRajpurohit.musicPlayer.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/elnazisrich/.gradle/daemon/7.4/com.harshRajpurohit.musicPlayer.app-mergeDebugResources-31:/layout/music_view.xml",
+        "source": "/home/elnazisrich/.gradle/daemon/7.4/com.harshRajpurohit.musicPlayer.app-main-34:/layout/music_view.xml"
+    },
+    {
+        "merged": "/home/elnazisrich/.gradle/daemon/7.4/com.harshRajpurohit.musicPlayer.app-mergeDebugResources-31:/layout/nav_header.xml",
+        "source": "/home/elnazisrich/.gradle/daemon/7.4/com.harshRajpurohit.musicPlayer.app-main-34:/layout/nav_header.xml"
+    },
+    {
+        "merged": "/home/elnazisrich/.gradle/daemon/7.4/com.harshRajpurohit.musicPlayer.app-mergeDebugResources-31:/layout/activity_selection.xml",
+        "source": "/home/elnazisrich/.gradle/daemon/7.4/com.harshRajpurohit.musicPlayer.app-main-34:/layout/activity_selection.xml"
+    },
+    {
+        "merged": "/home/elnazisrich/.gradle/daemon/7.4/com.harshRajpurohit.musicPlayer.app-mergeDebugResources-31:/layout/activity_playlist_details.xml",
+        "source": "/home/elnazisrich/.gradle/daemon/7.4/com.harshRajpurohit.musicPlayer.app-main-34:/layout/activity_playlist_details.xml"
+    },
+    {
+        "merged": "/home/elnazisrich/.gradle/daemon/7.4/com.harshRajpurohit.musicPlayer.app-mergeDebugResources-31:/layout/activity_settings.xml",
+        "source": "/home/elnazisrich/.gradle/daemon/7.4/com.harshRajpurohit.musicPlayer.app-main-34:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "/home/elnazisrich/.gradle/daemon/7.4/com.harshRajpurohit.musicPlayer.app-mergeDebugResources-31:/layout/add_playlist_dialog.xml",
+        "source": "/home/elnazisrich/.gradle/daemon/7.4/com.harshRajpurohit.musicPlayer.app-main-34:/layout/add_playlist_dialog.xml"
+    },
+    {
+        "merged": "/home/elnazisrich/.gradle/daemon/7.4/com.harshRajpurohit.musicPlayer.app-mergeDebugResources-31:/layout/more_features.xml",
+        "source": "/home/elnazisrich/.gradle/daemon/7.4/com.harshRajpurohit.musicPlayer.app-main-34:/layout/more_features.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-mergeDebugResources-31:/layout/activity_main.xml",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/elnazisrich/.gradle/daemon/7.4/com.harshRajpurohit.musicPlayer.app-mergeDebugResources-31:/layout/fragment_now_playing.xml",
+        "source": "/home/elnazisrich/.gradle/daemon/7.4/com.harshRajpurohit.musicPlayer.app-main-34:/layout/fragment_now_playing.xml"
+    },
+    {
+        "merged": "/home/elnazisrich/.gradle/daemon/7.4/com.harshRajpurohit.musicPlayer.app-mergeDebugResources-31:/layout/activity_play_next.xml",
+        "source": "/home/elnazisrich/.gradle/daemon/7.4/com.harshRajpurohit.musicPlayer.app-main-34:/layout/activity_play_next.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-mergeDebugResources-31:/layout/activity_player.xml",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-34:/layout/activity_player.xml"
+    }
+]

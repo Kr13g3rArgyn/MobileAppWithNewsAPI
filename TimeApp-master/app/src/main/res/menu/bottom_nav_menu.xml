@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/miMainPage"
+        android:title="World"
+        android:icon="@drawable/baseline_access_time_24"
+        />
+    <item
+        android:id="@+id/miMyTime"
+        android:title="My Time"
+        android:icon="@drawable/baseline_cabin_24"
+        />
+    <item
+        android:id="@+id/miEditPage"
+        android:title="Edit"
+        android:icon="@drawable/settings_edit_icon" />
+</menu>

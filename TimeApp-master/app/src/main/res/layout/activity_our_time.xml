@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MyCityTimeActivity"
+    android:background="#292525">
+
+    <TextView
+        android:id="@+id/tvOurTime"
+        android:layout_width="236dp"
+        android:layout_height="159dp"
+        android:layout_marginTop="80dp"
+        android:autoSizeTextType="uniform"
+        android:gravity="center"
+        android:text="17:05"
+        android:textColor="@color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tvOurCountry"
+        android:layout_width="144dp"
+        android:layout_height="56dp"
+        android:layout_marginTop="120dp"
+        android:fontFamily="sans-serif"
+        android:gravity="center"
+        android:text="KZ"
+        android:textColor="@color/white"
+        android:textSize="25sp"
+        app:layout_constraintEnd_toEndOf="@+id/tvOurTime"
+        app:layout_constraintHorizontal_bias="0.489"
+        app:layout_constraintStart_toStartOf="@+id/tvOurTime"
+        app:layout_constraintTop_toBottomOf="@+id/tvOurTime" />
+
+    <TextView
+        android:id="@+id/tvOurCity"
+        android:layout_width="236dp"
+        android:layout_height="93dp"
+        android:layout_marginBottom="27dp"
+        android:fontFamily="sans-serif-light"
+        android:gravity="center"
+        android:text="Alma-Ata"
+        android:textColor="@color/white"
+        android:textSize="45sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/tvOurCountry"
+        app:layout_constraintEnd_toEndOf="@+id/tvOurCountry"
+        app:layout_constraintStart_toStartOf="@+id/tvOurCountry"
+        app:layout_constraintTop_toBottomOf="@+id/tvOurTime"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/btmNavOur"
+        android:layout_width="414dp"
+        android:layout_height="59dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:menu="@menu/bottom_nav_menu" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
